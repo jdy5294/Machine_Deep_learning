@@ -1,4 +1,4 @@
-# Deep_Machine_learning
+# Machine_Deep_learning
 딥러닝 및 머신러닝 공부자료 입니다.
 아래 참고자료들을 활용하여 모르는 부분만 따로 정리했습니다.
 
